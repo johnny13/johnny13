@@ -22,10 +22,10 @@ Driven by a genuine curiosity for how things work—and how they can work better
 
 I maintain a blog and YouTube Channel where I talk about technology and how it evolves and changes not only itself, but the people using it. If you want to see more check me out there:
 
-- [https://huement.com](huement.com) | Company Blog
-- [https://github.com/huement](github.com/huement) | Company Github
-- [https://youtube.com/@barebonescode](youtube.com/@barebonescode) | YouTube Channel
-- [https://x.com/johnnyfortune](x.com/johnnyfortune) | X Profile
+- [huement.com](https://huement.com) | Company Blog
+- [github.com/huement](https://github.com/huement) | Company Github
+- [youtube.com/@barebonescode](https://youtube.com/@barebonescode) | YouTube Channel
+- [x.com/johnnyfortune](https://x.com/johnnyfortune) | X Profile
 
 <h2>
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" alt="Skills">&nbsp;&nbsp;Technical Skills
