@@ -321,12 +321,12 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huement&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=huement&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johnny13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=johnny13&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huement&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny13&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
