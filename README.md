@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>🎃 My Readme 👻</h1>
+  <h1></h1>
+  <h1>██░█▒██◤◢◤◢◤◢◤◢◤◢◤◢█▒░ 🎃 README 👻 ░▒██</h1>
   <p>
     <img src="https://img.shields.io/badge/FullStack-Developer-2dcba0?style=for-the-badge&logo=typescript&logoColor=white" alt="FullStack Developer"/>
     <img src="https://img.shields.io/badge/Blog-Awesomeness-520099?style=for-the-badge&logo=go&logoColor=white" alt="Backend Developer"/>
@@ -7,9 +8,7 @@
   </p>
 </div>
 
-<h2>
-  <img width="24" src="https://cdn-icons-png.flaticon.com/512/3001/3001758.png" alt="About">&nbsp;&nbsp;About
-</h2>
+<h2>████░░█░░░█◤◢◤◢◤◢◤◢◤◢◤◢██░   ABOUT   ░██▒▒</h2>
 
 I specialize in engineering and delivering clean, automated digital products based ontop of reliable, testable, dependable, infrastructure.
 
@@ -27,9 +26,20 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 - [youtube.com/@barebonescode](https://youtube.com/@barebonescode) | YouTube Channel
 - [x.com/johnnyfortune](https://x.com/johnnyfortune) | X Profile
 
-<h2>
-  <img width="24" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" alt="Skills">&nbsp;&nbsp;Technical Skills
-</h2>
+---
+
+<h3>████░█◤◢◤◢◤◢◤◢◤◢◤◢██░   COFFEE   ░██</h3>
+
+<p align="center">
+  <strong>If any of my software saved you time or a headache, consider keeping the engine running!</strong><br><br>
+  <a href='https://ko-fi.com/U1A7222617' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</p>
+
+---
+
+<h2>██░█▒█▶ ▪ ◀███▶ ▪ ◀█▒░ SKILLS ░▒█▒░</h2>
 
 <table>
   <!-- Row 1: Core Architecture & Languages -->
@@ -229,9 +239,7 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
   </tr>
 </table>
 
-<h2>
-  <img width="24" src="https://cdn-icons-png.flaticon.com/512/9464/9464788.png" alt="Projects">&nbsp;&nbsp;Featured Projects
-</h2>
+<h2>█▄▄▄▄▄▄▄▄▄▂▂▂▂▂▂▂▂▂▖PROJECTS▗▂▂▂▂▂▂▂▂▂▄▄▄▄▄▄▄▄▄█</h2>
 
 <table>
   <tr>
@@ -299,9 +307,7 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
   </tr>
 </table>
 
-<h2>
-  <img width="24" src="https://cdn-icons-png.flaticon.com/512/4946/4946348.png" alt="Stats">&nbsp;&nbsp;GitHub Activity
-</h2>
+<h2>█▄▄▄▄▄▄▂▂▂▂▂▖GITHUB ACTIVITY▗▂▂▂▂▂▄▄▄▄▄▄█</h2>
 
 <br>
 
@@ -313,9 +319,7 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 
 <br>
 
-<h2>
-  <img width="60" src="https://cdn-icons-png.flaticon.com/512/18699/18699111.png" alt="Expertise">&nbsp;&nbsp;Areas of Expertise
-</h2>
+<h2>███◤ ◢████▂▁ AREAS OF EXPERTISE  ▂▄████◤◢██◤◢██</h2>
 
 <div>
     <div>
