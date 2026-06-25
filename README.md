@@ -40,7 +40,7 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 ---
 <div align="center">
 <h2>█░█▒██▶ ▪ ◀█▒░ SKILLS ░▒█▒░</h2>
-</div>
+
 <table>
   <!-- Row 1: Core Architecture & Languages -->
   <tr>
@@ -238,6 +238,8 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
     </td>
   </tr>
 </table>
+</div>
+
 <div align="center">
 <h2>█▄▄▂▂▂▂▂▂▖PROJECTS▗▂▂▂▂▂▂▄▄█</h2>
 </div>
@@ -312,11 +314,22 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/huement">
-    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=johnny13&theme=flat&column=6&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="700" alt="johnny13's trophies"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=500&lines=WELCOME_TO_THE_SECTOR_GRID;INITIALIZING_CORE_UPLINK..." alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huement&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=huement&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huement&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 
 <br>
 <div align="center">
