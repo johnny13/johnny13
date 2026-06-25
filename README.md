@@ -1,6 +1,6 @@
 <div align="center">
   <h1></h1>
-  <h1>██░█▒██◤◢◤◢◤◢◤◢◤◢◤◢█▒░ 🎃 README 👻 ░▒██</h1>
+  <h1>█░█▒█◤◢◤◢◤◢◤◢█▒░ 🎃 README 👻 ░▒█</h1>
   <p>
     <img src="https://img.shields.io/badge/FullStack-Developer-2dcba0?style=for-the-badge&logo=typescript&logoColor=white" alt="FullStack Developer"/>
     <img src="https://img.shields.io/badge/Blog-Awesomeness-520099?style=for-the-badge&logo=go&logoColor=white" alt="Backend Developer"/>
@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<h2>████░░█░░░█◤◢◤◢◤◢◤◢◤◢◤◢██░   ABOUT   ░██▒▒</h2>
+<h2>█░█░█◤◢◤◢◤◢◤◢◤◢█░   ABOUT   ░█▒</h2>
 
 I specialize in engineering and delivering clean, automated digital products based ontop of reliable, testable, dependable, infrastructure.
 
@@ -39,7 +39,7 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 
 ---
 
-<h2>██░█▒█▶ ▪ ◀███▶ ▪ ◀█▒░ SKILLS ░▒█▒░</h2>
+<h2>█░█▒██▶ ▪ ◀█▒░ SKILLS ░▒█▒░</h2>
 
 <table>
   <!-- Row 1: Core Architecture & Languages -->
@@ -239,7 +239,7 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
   </tr>
 </table>
 
-<h2>█▄▄▄▄▄▄▄▄▄▂▂▂▂▂▂▂▂▂▖PROJECTS▗▂▂▂▂▂▂▂▂▂▄▄▄▄▄▄▄▄▄█</h2>
+<h2>█▄▄▂▂▂▂▂▂▖PROJECTS▗▂▂▂▂▂▂▄▄█</h2>
 
 <table>
   <tr>
@@ -307,7 +307,7 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
   </tr>
 </table>
 
-<h2>█▄▄▄▄▄▄▂▂▂▂▂▖GITHUB ACTIVITY▗▂▂▂▂▂▄▄▄▄▄▄█</h2>
+<h2>█▄▄▂▂▂▖GITHUB ACTIVITY▗▂▂▂▄▄█</h2>
 
 <br>
 
@@ -319,7 +319,7 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 
 <br>
 
-<h2>███◤ ◢████▂▁ AREAS OF EXPERTISE  ▂▄████◤◢██◤◢██</h2>
+<h2>███◤ ◢████ AREAS OF EXPERTISE ████◤◢██◤◢██</h2>
 
 <div>
     <div>
