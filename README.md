@@ -1,6 +1,5 @@
 <div align="center">
-  <h1></h1>
-  <h1>█░█▒█◤◢◤◢◤◢◤◢█▒░ 🎃 README 👻 ░▒█</h1>
+  <h1>█▒░ 🎃 README 👻 ░▒█</h1>
   <p>
     <img src="https://img.shields.io/badge/FullStack-Developer-2dcba0?style=for-the-badge&logo=typescript&logoColor=white" alt="FullStack Developer"/>
     <img src="https://img.shields.io/badge/Blog-Awesomeness-520099?style=for-the-badge&logo=go&logoColor=white" alt="Backend Developer"/>
@@ -8,8 +7,9 @@
   </p>
 </div>
 
-<h2>█░█░█◤◢◤◢◤◢◤◢◤◢█░   ABOUT   ░█▒</h2>
-
+<div align="center">
+<h2>█◤◢◤◢◤◢█ ABOUT █◤◢◤◢◤◢█</h2>
+</div>
 I specialize in engineering and delivering clean, automated digital products based ontop of reliable, testable, dependable, infrastructure.
 
 - **FullStack**: Builds that are stunning by design, performant under pressure, and inherently accessible to everyone.
@@ -27,9 +27,9 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 - [x.com/johnnyfortune](https://x.com/johnnyfortune) | X Profile
 
 ---
-
-<h3>████░█◤◢◤◢◤◢◤◢◤◢◤◢██░   COFFEE   ░██</h3>
-
+<div align="center">
+<h2>█◤◢◤◢◤◢█ COFFEE █◤◢◤◢◤◢█</h2>
+</div>
 <p align="center">
   <strong>If any of my software saved you time or a headache, consider keeping the engine running!</strong><br><br>
   <a href='https://ko-fi.com/U1A7222617' target='_blank'>
@@ -38,9 +38,9 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 </p>
 
 ---
-
+<div align="center">
 <h2>█░█▒██▶ ▪ ◀█▒░ SKILLS ░▒█▒░</h2>
-
+</div>
 <table>
   <!-- Row 1: Core Architecture & Languages -->
   <tr>
@@ -238,9 +238,9 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
     </td>
   </tr>
 </table>
-
+<div align="center">
 <h2>█▄▄▂▂▂▂▂▂▖PROJECTS▗▂▂▂▂▂▂▄▄█</h2>
-
+</div>
 <table>
   <tr>
 	  <td width="50%">
@@ -307,8 +307,9 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
   </tr>
 </table>
 
+<div align="center">
 <h2>█▄▄▂▂▂▖GITHUB ACTIVITY▗▂▂▂▄▄█</h2>
-
+</div>
 <br>
 
 <div align="center">
@@ -318,9 +319,9 @@ I maintain a blog and YouTube Channel where I talk about technology and how it e
 </div>
 
 <br>
-
-<h2>███◤ ◢████ AREAS OF EXPERTISE ████◤◢██◤◢██</h2>
-
+<div align="center">
+<h2>█◤ ◢█ AREAS OF EXPERTISE █◤ ◢█</h2>
+</div>
 <div>
     <div>
       <img align="left" width="150" src="https://cdn-icons-png.flaticon.com/512/18146/18146504.png" alt="Full-Stack Engineering" />
