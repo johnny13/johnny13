@@ -1,9 +1,9 @@
 <div align="center">
   <h1>█▒░ 🎃 README 👻 ░▒█</h1>
   <p>
-    <img src="https://img.shields.io/badge/FullStack-Developer-2dcba0?style=for-the-badge&logo=typescript&logoColor=white" alt="FullStack Developer"/>
-    <img src="https://img.shields.io/badge/Blog-Awesomeness-520099?style=for-the-badge&logo=go&logoColor=white" alt="Backend Developer"/>
-    <img src="https://img.shields.io/badge/YouTube-barebonescode-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Creator"/>
+    <a href="https://huement.github.io/iRock" target="_BLANK"><img src="https://img.shields.io/badge/FullStack-Developer-2dcba0?style=for-the-badge&logo=typescript&logoColor=white" alt="FullStack Developer"/></a>
+    <a href="https://huement.com" target="_BLANK"><img src="https://img.shields.io/badge/Blog-Awesomeness-520099?style=for-the-badge&logo=go&logoColor=white" alt="Blog Author"/></a>
+    <a href="https://youtube.com/@barebonescode" target="_BLANK"><img src="https://img.shields.io/badge/YouTube-barebonescode-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Creator"/></a>
   </p>
 </div>
 
